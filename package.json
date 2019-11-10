@@ -1,0 +1,16 @@
+{
+  "name": "tinder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "chrom.js",
+  "dependencies": {
+    "puppeteer-firefox": "^0.4.0",
+    "puppeteer": "^1.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

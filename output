@@ -1,0 +1,5 @@
+[22909:22909:1110/133106.672311:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+
+DevTools listening on ws://127.0.0.1:9222/devtools/browser/c6fcbe2d-4d11-49d4-9711-8b29828741a3
+[22909:22909:1110/133107.230411:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+[22873:22890:1110/133256.927296:ERROR:browser_process_sub_thread.cc(221)] Waited 18 ms for network service
